@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-# 用于处理中文字符显示
 plt.rcParams['font.sans-serif'] = ['SimHei']  
 plt.rcParams['axes.unicode_minus'] = False  
 
